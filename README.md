@@ -1,1 +1,1 @@
-# TSF-Data-Science-and-Business-Analyrics-Internship
+# TSF-Data-Science-and-Business-Analytics-Internship
